@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Flag Game</string>
+    <string name="guess_country">Guess Country</string>
+    <string name="guess_hints">Guess Hints</string>
+    <string name="guess_the_flag">Guess the Flag</string>
+    <string name="advance_level">Advance Level</string>
+    <string name="timer">Timer</string>
+    <string name="submit">Submit</string>
+   <string name="nextButton">Next</string>
+   <string name="wrong">Wrong</string>
+   <string name="correct">Correct</string>
+    <string name="enter_here_hint">Enter Here</string>
+    <string name="flag_3">Flag 3</string>
+    <string name="flag_2">Flag 2</string>
+    <string name="flag_1">Flag 1</string>
+    <string name="guess_character">Guess Character</string>
+    <string name="pick_flag_for_country">Pick Flag for Country</string>
+</resources>
